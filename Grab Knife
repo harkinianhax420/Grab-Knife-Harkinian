@@ -1,26 +1,26 @@
 script = Instance.new'Script'
 script.Parent = game.CoreGui
-me - game.Players.LocalPlayer
+me = game.Players.LocalPlayer
 
 
 
-char - me.Character
+char = me.Character
 
 
 
-selected - false
+selected = false
 
 
 
-attacking - false
+attacking = false
 
 
 
-hurt - false
+hurt = false
 
 
 
-grabbed - nil
+grabbed = nil
 
 
 
